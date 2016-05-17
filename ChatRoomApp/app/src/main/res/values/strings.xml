@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChatRoomApp</string>
+    <string name="register"><u>注册</u></string>
+    <string name="headclick">点击更换头像</string>
+    <string name="bubbleclick">点击更换气泡</string>
+    <string name="ok">确认</string>
+    <string name="chatroomManage">管理房间</string>
+    <string name="chatroomid">房号:</string>
+    <string name="chatroompassword">密码:</string>
+    <string name="add_room">添加房间</string>
+    <string name="delete_room">退出房间</string>
+    <string name="back">返回</string>
+    <string name="post">POST</string>
+    <string name="pleasewait">请稍候...</string>
+    <string name="roomlist">房间列表 :</string>
+</resources>
